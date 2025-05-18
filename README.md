@@ -1,4 +1,3 @@
-# varshitha
 # Hi there! 👋
 I am Varshitha, a beginner pursuing B.Tech.  
 - 🔭 I’m currently learning coding and exploring programming.  
